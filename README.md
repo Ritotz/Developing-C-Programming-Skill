@@ -2,7 +2,7 @@
 
 ## The C language is a Fundametal Language
 
-- The c language is considered "The mother language" of modern programming languages.When you learn C++,Java, PHP, C# or Javascript, you'll find that learning programming through C helps you quickly grapsp these other programming language.This is because the syntax and concepts of C are very similar to those of these popular programming languages.While you don't necessarily have to start with the C programming language, from my experience, beginning your programming journey with C or C++ is still the optional choice. 
+- The C language is considered "The mother language" of modern programming languages.When you learn C++,Java, PHP, C# or Javascript, you'll find that learning programming through C helps you quickly grapsp these other programming language.This is because the syntax and concepts of C are very similar to those of these popular programming languages.While you don't necessarily have to start with the C programming language, from my experience, beginning your programming journey with C or C++ is still the optional choice. 
   
 
 <div align="center">
